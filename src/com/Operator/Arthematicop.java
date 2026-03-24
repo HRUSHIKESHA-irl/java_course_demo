@@ -11,7 +11,7 @@ public class Arthematicop {
 
 	        System.out.println("In this Arthematic operator we use: " + num1 + "and" + num2);
 
-	        System.out.println("Addition" + (num1 + num2) );
+	        System.out.println("add" + (num1 + num2) );
 	        System.out.println("Substract" + (num1 - num2) );
 	        System.out.println("Multiply" + (num1 * num2) );
 	        System.out.println("Divide" + (num1 / num2) );
